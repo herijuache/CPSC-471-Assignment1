@@ -2,21 +2,18 @@ READ ME
 
 Team Members:
 
-Stephani Michel
-Email: michels126@csu.fullerton.edu
-
-Heriberto Juache
-Email: h.juache@csu.fullerton.edu
-
-Jose Muniz
+Stephani Michel: michels126@csu.fullerton.edu
+Heriberto Juache: h.juache@csu.fullerton.edu
+Jose Muniz: 
 Email:
 
 RJ Andaya
 Email:
 
 Programming Language Used:
-C++
+Python
 
 Execution steps:
 
 Special remarks:
+None
